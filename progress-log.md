@@ -1,3 +1,4 @@
+<!-- branching exercise: this line only exists on my branch -->
 # Learning Progress Log
 
 This file tracks what's been done and where to pick up if starting a new conversation.
