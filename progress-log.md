@@ -53,7 +53,10 @@ This file tracks what's been done and where to pick up if starting a new convers
 ## In Progress
 
 ### Phase 3: First AI-Built Python Tool
-- Status: Starting next
+- Status: Starting next session
+- Need: a CSV or Excel data file (adoption metrics, NVBugs export, VDI usage, etc.)
+- Alternative: can generate realistic sample data if no real data available
+- Python 3.12 is installed and ready
 
 ## Not Started
 - Phase 4: Dashboard with Streamlit
