@@ -42,11 +42,18 @@ This file tracks what's been done and where to pick up if starting a new convers
 - Key lesson: branches only exist on GitHub if you push them there
 - Key lesson: commit saves locally, push uploads to GitHub — they're separate steps
 
+### Phase 2: Agentic AI Concepts (March 4, 2026)
+- Covered: chatbot vs agent, MCP/MaaS, context window, tokens, hallucination, product owner mindset
+- Covered: evolution of AI (autocomplete > chatbot > chatbot+tools > agent)
+- Covered: how transformers, RLHF, and function calling enabled the leap
+- Covered: practical strategies for verification (small chunks, explain-first, test with known data)
+- Key takeaway: AI handles the tedious 70%, you focus on the critical 30%
+- Glossary file: concepts/agentic-ai-glossary.md
+
 ## In Progress
 
-### Phase 2: Agentic AI Concepts
+### Phase 3: First AI-Built Python Tool
 - Status: Starting next
-- Glossary file already created, needs review and discussion
 
 ## Not Started
 - Phase 2: Agentic AI concepts (glossary already created, needs review)
