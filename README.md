@@ -22,10 +22,10 @@ Learning AI/
 
 | Phase | Topic | Status |
 |-------|-------|--------|
-| 0 | Setup (Git, Python, workspace) | In Progress |
-| 1 | Terminal & Git basics | Not Started |
-| 2 | Agentic AI concepts | Not Started |
-| 3 | First AI-built Python tool | Not Started |
+| 0 | Setup (Git, Python, workspace) | Complete |
+| 1 | Terminal & Git basics | Complete |
+| 2 | Agentic AI concepts | Complete |
+| 3 | First AI-built Python tool | In Progress |
 | 4 | Dashboarding with AI | Not Started |
 | 5 | GitLab + live data | Not Started |
 | 6 | Advanced agentic patterns | Not Started |
