@@ -33,6 +33,14 @@ The ov-todo project you shared is the perfect blueprint. The product owner didn'
 
 **Key Concept — Git in Plain English:**
 
+```mermaid
+flowchart LR
+    A[YourFiles] -->|"git add"| B[StagingArea]
+    B -->|"git commit"| C[LocalHistory]
+    C -->|"git push"| D[GitHub]
+    D -->|"git pull"| A
+```
+
 Git is just a save-point system. You make changes, stage them, commit (save a snapshot), and push (upload to GitHub). That's 90% of what you need.
 
 ---
