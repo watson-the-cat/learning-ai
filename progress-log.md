@@ -31,12 +31,23 @@ This file tracks what's been done and where to pick up if starting a new convers
 - `cd`, `ls`, `git status` — navigation and checking state
 - `git add`, `git commit -m`, `git push` — the full commit cycle (done multiple times)
 - `git config --global` — setting up identity
+- `git checkout -b`, `git checkout`, `git branch` — creating and switching branches
+- `git merge` — merging branch changes into master
+- `git diff` — seeing what changed in a file
+- `git log --oneline` — viewing commit history
+
+### Phase 1: Terminal and Git Basics (March 4, 2026)
+- Practiced full git workflow: add, commit, push
+- Learned branching: create, switch, merge
+- Key lesson: save files (Ctrl+S) before `git add`
+- Key lesson: branches only exist on GitHub if you push them there
+- Key lesson: commit saves locally, push uploads to GitHub — they're separate steps
 
 ## In Progress
 
-### Phase 1: Terminal and Git Basics
-- Status: Core git workflow learned (add/commit/push)
-- Next step: Practice branching, then move to Phase 2
+### Phase 2: Agentic AI Concepts
+- Status: Starting next
+- Glossary file already created, needs review and discussion
 
 ## Not Started
 - Phase 2: Agentic AI concepts (glossary already created, needs review)
