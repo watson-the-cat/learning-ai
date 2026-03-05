@@ -25,8 +25,7 @@ Learning AI/
 | 0 | Setup (Git, Python, workspace) | Complete |
 | 1 | Terminal & Git basics | Complete |
 | 2 | Agentic AI concepts | Complete |
-| 3 | First AI-built Python tool | In Progress |
-| 4 | Dashboarding with AI | Not Started |
+| 3-4 | First dashboard (Streamlit) | Complete |
 | 5 | GitLab + live data | Not Started |
 | 6 | Advanced agentic patterns | Not Started |
 
