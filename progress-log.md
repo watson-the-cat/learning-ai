@@ -53,10 +53,10 @@ This file tracks what's been done and where to pick up if starting a new convers
 ## In Progress
 
 ### Phase 3: First AI-Built Python Tool
-- Status: Starting next session
-- Need: a CSV or Excel data file (adoption metrics, NVBugs export, VDI usage, etc.)
-- Alternative: can generate realistic sample data if no real data available
+- Status: In progress
 - Python 3.12 is installed and ready
+- IMPORTANT RULE: No NVIDIA data on GitHub. Data files are gitignored. Cursor rule enforces this (.cursor/rules/data-safety.md)
+- Code goes to GitHub, data stays local
 
 ## Not Started
 - Phase 4: Dashboard with Streamlit

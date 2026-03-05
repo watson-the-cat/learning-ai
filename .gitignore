@@ -7,3 +7,11 @@ __pycache__/
 venv/
 node_modules/
 .cursor/plans/
+
+# Data files — NVIDIA data must never be pushed to personal GitHub
+*.csv
+*.xlsx
+*.xls
+*.parquet
+*.json
+data/
