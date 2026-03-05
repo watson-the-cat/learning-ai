@@ -56,8 +56,6 @@ This file tracks what's been done and where to pick up if starting a new convers
 - Status: Starting next
 
 ## Not Started
-- Phase 2: Agentic AI concepts (glossary already created, needs review)
-- Phase 3: First AI-built Python script
 - Phase 4: Dashboard with Streamlit
 - Phase 5: GitLab + live data
 - Phase 6: Advanced agentic patterns
